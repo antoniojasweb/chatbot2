@@ -4,3 +4,4 @@ spacy
 sentence_transformers
 scikit-learn
 pip
+pymupdf
