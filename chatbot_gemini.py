@@ -9,7 +9,7 @@ Original file is located at
 
 # !pip install streamlit PyPDF2 spacy sentence-transformers scikit-learn
 # !python -m spacy download es_core_news_sm
-pip install --upgrade pip
+#pip install --upgrade pip
 
 import streamlit as st
 import PyPDF2
